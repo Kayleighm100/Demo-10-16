@@ -22,12 +22,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: "Miami: History, Culture, and Architecture"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a city founded on innovation and community 
+tagline: A city founded on innovation and community. 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: Miami’s identity as a vibrant, multicultural city is deeply tied to its evolution as a center for medicine and research. When the University of Miami’s Miller School of Medicine opened in the 1950s, it set the stage for a medical district that would grow alongside the city itself. As waves of Cuban immigrants arrived in the 1960s, they brought with them not only a strong sense of community but also a dedication to healthcare and innovation that helped shape Miami’s medical culture. Today, world-renowned institutions like Bascom Palmer Eye Institute and Jackson Memorial Hospital stand as symbols of Miami’s global reputation for excellence in care. The city’s blend of Latin American influence, cutting-edge research, and compassionate service has transformed it into both a medical destination and a place where culture and healing thrive together.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Kayleigh McMann
 
 ##########
 # COLLECTION SETTINGS
